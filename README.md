@@ -30,7 +30,7 @@ Welcome to my GitHub profile!
 ---
 
 ### 📦 ETL & BI Platforms
-![Talend](https://img.shields.io/badge/Talend-0095D5?style=for-the-badge&logo=talend&logoColor=white) [Pentaho](https://img.shields.io/badge/Pentaho-2349a0?style=for-the-badge&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-0095D5?style=for-the-badge&logo=talend&logoColor=white) ![Pentaho](https://img.shields.io/badge/Pentaho-2349a0?style=for-the-badge&logoColor=white)
 
 ---
 
