@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 ---
 
 ### 📊 AI & Data Science
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
@@ -30,12 +30,12 @@ Welcome to my GitHub profile!
 ---
 
 ### 📦 ETL & BI Platforms
-![Talend](https://img.shields.io/badge/Talend-0095D5?style=for-the-badge&logo=talend&logoColor=white)![Pentaho](https://img.shields.io/badge/Pentaho-2349a0?style=for-the-badge&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-0095D5?style=for-the-badge&logo=talend&logoColor=white) ![Pentaho](https://img.shields.io/badge/Pentaho-2349a0?style=for-the-badge&logoColor=white)
 
 ---
 
 ### 🖥️ Development & Architecture
-![JEE](https://img.shields.io/badge/JEE-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white[Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)[Apache](https://img.shields.io/badge/Apache-D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![JEE](https://img.shields.io/badge/JEE-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)![Apache](https://img.shields.io/badge/Apache-D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
@@ -55,12 +55,12 @@ Welcome to my GitHub profile!
 ---
 
 ### 🌍 Languages
-![Arabic](https://img.shields.io/badge/Arabic-%23F0F0F0.svg?style=for-the-badge&logoColor=black)![French](https://img.shields.io/badge/French-%23002395.svg?style=for-the-badge&logoColor=white)![English](https://img.shields.io/badge/English-%23007ACC.svg?style=for-the-badge&logoColor=white)
+![Arabic](https://img.shields.io/badge/Arabic-%23F0F0F0.svg?style=for-the-badge&logoColor=black) ![French](https://img.shields.io/badge/French-%23002395.svg?style=for-the-badge&logoColor=white) ![English](https://img.shields.io/badge/English-%23007ACC.svg?style=for-the-badge&logoColor=white)
 
 ---
 
 ### 🛡️ Modeling & Office
-![UML](https://img.shields.io/badge/UML-%2300A36C.svg?style=for-the-badge&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![UML](https://img.shields.io/badge/UML-%2300A36C.svg?style=for-the-badge&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ---
 
